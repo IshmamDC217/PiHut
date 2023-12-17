@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Season's greetings! I've embarked on the Codemas Maker Advent Calendar journey, diving daily into the world of the RP2040. It's an exciting escape into the Raspberry Pi realm, offering a fresh project each day. This repository is neatly organized by days, so you can easily explore and replicate each project at your leisure.
+Season's greetings! I've embarked on the Codemas Maker Advent Calendar journey, diving daily into the world of the RP2040. It's an exciting escape into the Raspberry Pi realm, offering a fresh project each day. This repository is neatly organized by days, so you can easily explore and replicate each project at your leisure. 
 
 ## Personal Reflection
 
